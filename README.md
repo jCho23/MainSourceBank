@@ -1,14 +1,14 @@
 # MainSourceBank
 Automation Test Scripts for Main Source Bank
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
